@@ -10,4 +10,4 @@ description = "In-memory filesystem for Redox, which is useful for early logging
 
 [dependencies]
 redox-daemon = "0.1"
-redox_syscall = "0.2.12"
+redox_syscall = "0.3"
